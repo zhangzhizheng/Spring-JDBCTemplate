@@ -35,7 +35,7 @@ public class SpringTest1 {
 	}
 	@Test
 	public void demo2(){
-		jdbcTemplate.execute("insert into student values(18,'黄蜂','1455223')");
+		jdbcTemplate.execute("insert into student values(20,'黄蜂3','1455223')");
 	}
 
 }
